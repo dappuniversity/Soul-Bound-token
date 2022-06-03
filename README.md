@@ -11,3 +11,5 @@ Non transferable Soul bound token NFT
 
 ### 2. Paste into Remix and deploy to testnet
 
+### 3. Upload The NFT Degree to IPFS using Pinata 
+
